@@ -2,4 +2,4 @@
 sidebar_position: 1
 ---
 
-# 介绍
+# 数学记录

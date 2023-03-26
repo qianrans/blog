@@ -1,5 +1,4 @@
 ---
 sidebar_position: 1
 ---
-
-# 介绍
+# 算法记录

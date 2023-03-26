@@ -9,12 +9,31 @@ import Head from '@docusaurus/Head'
 import HeroImg from '../../static/img/Hero.jpg'
 
 const svgList = [
+  /*
   {
     title: 'github',
     Svg: require('../../static/img/github.svg').default,
     color: 'black',
-    link: 'https://github.com/qianrans',
+    link: 'https://github.com/qianrans/blog',
   },
+  {
+    title: 'bilibili',
+    Svg: require('../../static/img/bilibili.svg').default,
+    color: 'black',
+    link: 'https://github.com/qianrans/blog',
+  },
+  {
+    title: '掘金',
+    Svg: require('../../static/img/juejin.svg').default,
+    color: 'black',
+    link: 'https://github.com/qianrans/blog',
+  },
+  {
+    title: 'wechat',
+    Svg: require('../../static/img/wechat.svg').default,
+    color: 'black',
+    link: 'https://github.com/qianrans/blog',
+  }*/
 ]
 const Svg = ({ Svg, color, title, link }) => {
   return (
